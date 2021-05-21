@@ -1,4 +1,4 @@
-Pays;Région du monde;Score de bonheur;déviation standard;PIB par habitant (log);Entraide sociale;Durée de vie en bonne santé;Liberté des choix de vie;Générosité;Perception de la corruption;Score de bonheur en Distopie
+Pays;Région du monde;Score de bonheur;déviation standard;PIB par habitant (log);Entraide sociale;Durée de vie en bonne santé;Liberté des choix de vie;Générosité;Corruption perçue;Score de bonheur en Distopie
 Finland;Western Europe;7.808700085;0.031156305;10.63926697;0.954329729;71.9008255;0.949172199;-0.059482019;0.195444584;1.972316742
 Denmark;Western Europe;7.645599842;0.033492286;10.77400112;0.955990791;72.40250397;0.951444268;0.066201776;0.168489456;1.972316742
 Switzerland;Western Europe;7.559899807;0.035014171;10.97993279;0.942846596;74.10244751;0.921336651;0.105911039;0.303728431;1.972316742
