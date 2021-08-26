@@ -4,3 +4,5 @@
 - tp3b (3 pts)
 - tp3c (2 pts)
 - tp3d (2 pts)
+
+date limite avant que le notebook soit récupéré pour notation :
